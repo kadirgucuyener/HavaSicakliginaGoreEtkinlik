@@ -1,0 +1,2 @@
+# HavaSicakliginaGoreEtkinlik
+# www.patika.dev
